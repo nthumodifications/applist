@@ -1,0 +1,13 @@
+[
+    {
+        "id": "example",
+        "name": "Example",
+        "description": "Example",
+        "url": "https://example.com",
+        "logo": "https://example.com/logo.png",
+        "tags": [
+            "example"
+        ],
+        "author": "Example"
+    }
+]
